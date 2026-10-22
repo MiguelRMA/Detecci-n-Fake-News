@@ -7,16 +7,16 @@
 Este repositorio contiene un flujo de trabajo en Procesamiento de Lenguaje Natural (PLN) para la clasificación y detección automática de noticias falsas, comparando enfoques tradicionales con embeddings contextuales de aprendizaje profundo.
 
 ## 📌 Características del Proyecto
-* **Dataset:** Integración y limpieza de noticias reales (`True.csv`) y falsas (`Fake.csv`)[cite: 11].
-* **Preprocesamiento:** Limpieza de texto, tokenización y combinación de título con cuerpo del artículo[cite: 11].
+* **Dataset:** Integración y limpieza de noticias reales (`True.csv`) y falsas (`Fake.csv`).
+* **Preprocesamiento:** Limpieza de texto, tokenización y combinación de título con cuerpo del artículo.
 * **Modelos Evaluados:**
-  * **Línea base:** Representación TF-IDF con clasificadores clásicos[cite: 11].
-  * **Deep Learning:** Embeddings contextuales **ELMo** a través de TensorFlow Hub[cite: 11].
+  * **Línea base:** Representación TF-IDF con clasificadores clásicos.
+  * **Deep Learning:** Embeddings contextuales **ELMo** a través de TensorFlow Hub.
 
 ## 📊 Dataset
 El dataset utilizado proviene de Kaggle y consta de artículos etiquetados:
-* `1`: Noticias verdaderas (fuente: Reuters)[cite: 11].
-* `0`: Noticias falsas (fuente: PolitiFact)[cite: 11].
+* `1`: Noticias verdaderas (fuente: Reuters).
+* `0`: Noticias falsas (fuente: PolitiFact).
 
 ## 🛠️ Tecnologías y Librerías
 * Python
