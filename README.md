@@ -24,8 +24,3 @@ El dataset utilizado proviene de Kaggle y consta de artículos etiquetados:
 * NLTK & Scikit-Learn (PLN tradicional)
 * TensorFlow / TensorFlow Hub (ELMo)
 * Matplotlib & Seaborn (Visualización)
-
-## 🚀 Cómo Ejecutar el Proyecto
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
